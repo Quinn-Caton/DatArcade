@@ -1,7 +1,9 @@
 requests
 pandas
+pyodbc
 python-dotenv
 streamlit
 azure-functions
 azure-identity
 azure-keyvault-secrets
+matplotlib
